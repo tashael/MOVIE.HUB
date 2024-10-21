@@ -1,1 +1,2 @@
-# MOVIE.HUB
+# movie-hub
+ home of entertainment
